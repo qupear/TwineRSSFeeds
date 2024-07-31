@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Twine RSS Feeds</title>
+  </head>
+  <body>
+    <outline title="Losst" text="Losst" type="rss" xmlUrl="https://losst.pro/feed" />
+    <outline title="TFiR" text="TFiR" type="rss" xmlUrl="https://tfir.io/feed/" />
+    <outline title="Security Sales &amp; Integration" text="Security Sales &amp; Integration" type="rss" xmlUrl="https://www.securitysales.com/feed/" />
+    <outline title="Help Net Security" text="Help Net Security" type="rss" xmlUrl="https://www.helpnetsecurity.com/feed/" />
+    <outline title="VoxelMatters – The heart of additive manufacturing" text="VoxelMatters – The heart of additive manufacturing" type="rss" xmlUrl="https://www.voxelmatters.com/feed/" />
+    <outline title="VentureBeat" text="VentureBeat" type="rss" xmlUrl="https://venturebeat.com/feed/" />
+    <outline title="The Next Web" text="The Next Web" type="rss" xmlUrl="https://thenextweb.com/feed" />
+    <outline title="TechCrunch" text="TechCrunch" type="rss" xmlUrl="https://techcrunch.com/feed/" />
+    <outline title="SiliconANGLE" text="SiliconANGLE" type="rss" xmlUrl="https://siliconangle.com/feed/" />
+    <outline title="SD Times" text="SD Times" type="rss" xmlUrl="https://sdtimes.com/feed/" />
+    <outline title="devmio – Software Know-How" text="devmio – Software Know-How" type="rss" xmlUrl="https://devm.io/feed/" />
+    <outline title="Hackaday" text="Hackaday" type="rss" xmlUrl="https://hackaday.com/feed/" />
+    <outline title="Ars Technica" text="Ars Technica" type="rss" xmlUrl="https://arstechnica.com/feed/" />
+    <outline title="Linux.org.ru: Новости" text="Linux.org.ru: Новости" type="rss" xmlUrl="https://www.linux.org.ru/section-rss.jsp?section=1" />
+    <outline title="Opensource.com" text="Opensource.com" type="rss" xmlUrl="https://opensource.com/feed" />
+    <outline title="Topic – Linux.com" text="Topic – Linux.com" type="rss" xmlUrl="https://www.linux.com/topic/feed/" />
+    <outline title="OpenNews.opennet.ru: Общая лента новостей" text="OpenNews.opennet.ru: Общая лента новостей" type="rss" xmlUrl="https://www.opennet.ru/opennews/opennews_all_utf.rss" />
+  </body>
+</opml>
