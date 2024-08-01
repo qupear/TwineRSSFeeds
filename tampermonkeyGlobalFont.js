@@ -8,5 +8,7 @@
 // @grant        none
 // ==/UserScript==
 
-javascript:Array.prototype.forEach.call(document.getElementsByTagName("*"),
-function(e){e.style.fontFamily ="aIosev"})
+javascript:Array.prototype.forEach.call(
+    document.getElementsByTagName("*"),
+    function(e){e.style.fontFamily ="aIosev";e.style.fontSize ="16px"}
+)
