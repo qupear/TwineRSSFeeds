@@ -1,0 +1,43 @@
+[buildPlans.AIosev]
+family = "aIosev"
+spacing = "normal"
+serifs = "sans"
+noCvSs = true
+exportGlyphNames = false
+
+  [buildPlans.AIosev.variants]
+  inherits = "ss08"
+
+    [buildPlans.AIosev.variants.design]
+    one = "base-long-top-serif"
+    five = "upright-arched-serifless"
+    seven = "bend-serifed-crossbar"
+    capital-d = "more-rounded-bilateral-serifed"
+    capital-g = "toothless-corner-serifed-hookless"
+    capital-i = "serifed"
+    capital-m = "slanted-sides-flat-bottom-serifed"
+    capital-q = "open-swash"
+    m = "earless-single-arch-tailed-serifed"
+    q = "diagonal-tailed-serifless"
+    u = "tailed-serifed"
+    cyrl-capital-zhe = "cursive"
+    cyrl-zhe = "cursive"
+    cyrl-em = "slanted-sides-flat-bottom-serifed"
+    cyrl-er = "earless-rounded-serifed"
+    cyrl-ef = "split-cursive"
+    cyrl-yeri = "corner"
+
+[buildPlans.AIosev.widths.Normal]
+shape = 500
+menu = 5
+css = "normal"
+
+[buildPlans.AIosev.widths.Extended]
+shape = 600
+menu = 7
+css = "expanded"
+
+[buildPlans.AIosev.widths.Condensed]
+shape = 416
+menu = 3
+css = "condensed"
